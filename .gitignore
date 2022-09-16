@@ -1,3 +1,4 @@
 /.ipynb_checkpoints
 /Face-Recognition-venv
 /data/negative
+training_checkpoints/checkpoint
